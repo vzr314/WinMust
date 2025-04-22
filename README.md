@@ -22,10 +22,10 @@ This program is designed for MS Windows with .NET Framework 2.0 installed on you
 ## Setup & Run
 No setup needed. Just extract the files from the zip archive in your preferred folder and execute the `winmust.exe`
 
-
 ## Download  
  [![WinMust+ Zip Archive](https://img.shields.io/badge/%F0%9F%92%BE%20WinMust+-zip%20archive-lightgrey)](https://github.com/vzr314/WinMust/archive/refs/heads/master.zip)  
  
 ## License
 This program is free software distributed under the GNU GPL 3, for license details see at `license.txt` file, distributed with this program, or see at <http://www.gnu.org/licenses/>.
+
 
